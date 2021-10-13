@@ -91,7 +91,7 @@ SBIE1151 Impossibile gestire l'istruzione %2
 .
 
 1152;evt;pop;err;01
-SBIE1152 Allocazione del trampoline %2 fallita
+SBIE1152 Allocazione del trampolino %2 fallita
 .
 
 1153;evt;pop;err;01
